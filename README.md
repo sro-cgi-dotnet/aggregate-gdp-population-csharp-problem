@@ -16,7 +16,7 @@ In order to aggregate Countries by Continent you would have to rely on any exter
 
 ```
 # Add remote to the starter code
-git remote add starter <url to be added>
+git remote add starter https://github.com/nishant-jain-94/aggregate-gdp-population-csharp-problem
 
 # Install and restore all the dependencies
 dotnet restore
@@ -27,4 +27,4 @@ dotnet test
 
 ## Issues
 
-Incase of any issues raise an issue on https://github.com/nishant-jain-94/aggregate-gdp-population-js-problem/issues
+Incase of any issues raise an issue on https://github.com/nishant-jain-94/aggregate-gdp-population-csharp-problem/issues
